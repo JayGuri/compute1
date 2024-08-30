@@ -4,6 +4,7 @@
 .image-31-icon {  
   position: absolute;  
   object-fit: cover;  
+  filter: grayscale(100%);
 }  
   
 .image-27-icon {  
