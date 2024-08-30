@@ -1,0 +1,206 @@
+.decore-icon {
+  position: absolute;
+  top: 9rem;
+  left: 72rem;
+  width: 30rem;
+  height: 31rem;
+  object-fit: contain;
+}
+.social-icon,
+.social-icon1 {
+  position: absolute;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.social-icon {
+  top: 0.125rem;
+  left: 8.5rem;
+}
+.social-icon1 {
+  top: 0;
+  left: 0;
+}
+.social-icon2 {
+  position: absolute;
+  top: 0;
+  left: 4.125rem;
+  width: 2.8rem;
+  height: 2.8rem;
+}
+.discover-our-app,
+.social {
+  position: absolute;
+  top: 0;
+  left: 0.125rem;
+}
+.social {
+  width: 11.rem;
+  height: 2.8rem;
+}
+.discover-our-app {
+  letter-spacing: 0.01em;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.google-play-icon,
+.play-store-icon {
+  position: absolute;
+  top: 2.5rem;
+  height: 2.2rem;
+}
+.google-play-icon {
+  left: 0;
+  width: 6.7rem;
+}
+.play-store-icon {
+  left: 7.125rem;
+  width: 6.25rem;
+}
+.discover,
+.outbound {
+  position: absolute;
+  width: 14rem;
+}
+.discover {
+  top: 4.438rem;
+  left: 0;
+  height: 4.75rem;
+}
+.outbound {
+  top: 1.313rem;
+  left: 52.875rem;
+  height: 9.188rem;
+}
+.jadoo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.book-your-trip {
+  margin: 0;
+}
+.book-your-trip-container {
+  position: absolute;
+  top: 5.313rem;
+  left: 0;
+  font-size: var(--font-size-smi);
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--text-clr);
+}
+.company,
+.company-desc {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.company-desc {
+  width: 12.938rem;
+  height: 8.313rem;
+  font-size: var(--font-size-25xl);
+  color: var(--st);
+}
+.company {
+  font-size: var(--font-size-2xl);
+  line-height: 124.5%;
+  color: var(--black);
+}
+.about,
+.careers {
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.about {
+  position: absolute;
+  top: 3.75rem;
+  left: 0;
+}
+.careers {
+  top: 5.875rem;
+}
+.careers,
+.mobile,
+.nav-row {
+  position: absolute;
+  left: 0;
+}
+.mobile {
+  top: 8.063rem;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.nav-row {
+  top: 0;
+  width: 6.75rem;
+  height: 9.438rem;
+}
+.contact,
+.helpfaq {
+  position: absolute;
+  line-height: 124.5%;
+}
+.contact {
+  top: 0;
+  left: 0.063rem;
+  font-size: var(--font-size-2xl);
+  color: var(--black);
+}
+.helpfaq {
+  top: 3.625rem;
+  left: 0;
+  font-weight: 500;
+}
+.nav-row1 {
+  position: absolute;
+  top: 0;
+  left: 11.25rem;
+  width: 5.563rem;
+  height: 9.438rem;
+}
+.airline,
+.low-fare-tips {
+  position: absolute;
+  top: 6rem;
+  left: 0;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.low-fare-tips {
+  top: 8.188rem;
+}
+.nav-columns,
+.nav-row2 {
+  position: absolute;
+  height: 9.563rem;
+}
+.nav-row2 {
+  top: 0;
+  left: 22.5rem;
+  width: 7.125rem;
+}
+.nav-columns {
+  top: 1.313rem;
+  left: 18.125rem;
+  width: 29.625rem;
+  font-size: var(--font-size-lg);
+}
+.copyrights {
+  position: absolute;
+  top: 16.125rem;
+  left: 26.875rem;
+  font-size: var(--font-size-sm);
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.footer {
+  position: absolute;
+  top: 276.25rem;
+  left: 11.625rem;
+  width: 101.119rem;
+  height: 39.619rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

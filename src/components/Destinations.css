@@ -1,0 +1,36 @@
+.decore-icon1 {
+  position: absolute;
+  top: 20rem;
+  left: 63rem;
+  width: 5rem;
+  height: 15rem;
+}
+.subheading2 {
+  position: absolute;
+  top: 0;
+  left: 30rem;
+  font-weight: 800;
+  font-style: oblique;
+}
+.heading2 {
+  position: absolute;
+  top: 2.5rem;
+  left: 20rem;
+  font-size: var(--font-size-31xl);
+  text-transform: capitalize;
+  font-family: var(--font-volkhov);
+  color: var(--rd);
+  font-style: oblique;
+}
+.destinations {
+  position: absolute;
+  top: 100rem;
+  left: 10rem;
+  width: 69rem;
+  height: 40rem;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+  font-style: oblique;
+}

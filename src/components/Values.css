@@ -1,0 +1,75 @@
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color);
+  width: 2.938rem;
+  height: 3rem;
+}
+.selection-1-icon {
+  position: absolute;
+  top: 0.813rem;
+  left: 0.813rem;
+  width: 1.375rem;
+  height: 1.375rem;
+  object-fit: contain;
+}
+.choose-destination {
+  position: absolute;
+  top: 0;
+  left: 4.25rem;
+  line-height: 124.5%;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 1.5rem;
+  left: 4.25rem;
+  line-height: 124.5%;
+}
+.value,
+.value-child {
+  position: absolute;
+  left: 0;
+}
+.value {
+  top: 0;
+  width: 24.688rem;
+  height: 4rem;
+}
+.value-child {
+  top: 0.25rem;
+  width: 2.938rem;
+  height: 3rem;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 1.563rem;
+  left: 4.25rem;
+  line-height: 124.5%;
+}
+.value1,
+.value2,
+.values {
+  position: absolute;
+  top: 14rem;
+  left: 0;
+  width: 24.688rem;
+  height: 4.063rem;
+}
+.value2,
+.values {
+  top: 7rem;
+  height: 4rem;
+}
+.values {
+  top: 12.688rem;
+  height: 18.063rem;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+}

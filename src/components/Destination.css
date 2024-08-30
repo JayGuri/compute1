@@ -1,0 +1,75 @@
+.destination-child {
+  position: absolute;
+  top: 0;
+  left: 0.063rem;
+  border-radius: var(--br-5xl);
+  width: 19.625rem;
+  height: 28.563rem;
+  object-fit: cover;
+  
+}
+.card-5-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-5xl) var(--br-5xl);
+  background-color: var(--white);
+  width: 19.688rem;
+  height: 8.125rem;
+}
+.full-europe {
+  position: absolute;
+  top: 1.75rem;
+  left: 1.25rem;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.navigation-1-icon {
+  position: absolute;
+  top: 4.25rem;
+  left: 1.25rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+}
+.days-trip,
+.k {
+  position: absolute;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.days-trip {
+  top: 4.25rem;
+  left: 3.188rem;
+  font-size: var(--font-size-base);
+  font-style: oblique;
+}
+.k {
+  top: 1.75rem;
+  left: 15.625rem;
+}
+.card-5,
+.destination {
+  position: absolute;
+  width: 19.688rem;
+}
+.card-5 {
+  top: 20.438rem;
+  left: 0;
+  height: 8.125rem;
+  border-radius: 5%;
+}
+.destination {
+  top: 10rem;
+  left: 45.313rem;
+  height: 28.563rem;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--text-clr);
+  font-family: var(--font-poppins);
+  box-shadow: 0 100px 150px rgba(0, 0, 0, 0.02),
+    0 64.8px 50px rgba(0, 0, 0, 0.02), 0 38.5px 30px rgba(0, 0, 0, 0.01),
+    0 20px 15px rgba(0, 0, 0, 0.01), 0 8.1px 7px rgba(0, 0, 0, 0.01),
+    0 1.9px 4px ;
+  border-radius: var(--br-3xs);
+}

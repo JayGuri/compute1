@@ -1,0 +1,75 @@
+.image-27-icon,  
+.image-28-icon,  
+.image-30-icon,  
+.image-31-icon {  
+  position: absolute;  
+  object-fit: cover;  
+}  
+  
+.image-27-icon {  
+  top: 1rem;  
+  left: 0;  
+  width: 8.125rem;  
+  height: 8.125rem;  
+}  
+  
+.image-28-icon {  
+  top: 1.688rem;  
+  left: 12.938rem;  
+  width: 10.806rem;  
+  height: 6.875rem;  
+}  
+  
+.group-child1 {  
+  position: absolute;  
+  top: 2.625rem;  
+  left: 0;  
+  box-shadow: 0 100px 150px rgba(0, 0, 0, 0.02),  
+  0 64.8px 50px rgba(0, 0, 0, 0.02), 0 38.5px 30px rgba(0, 0, 0, 0.01),  
+   0 20px 15px rgba(0, 0, 0, 0.01), 0 8.1px 7px rgba(0, 0, 0, 0.01),  
+   0 1.9px 4px ;  
+  border-radius: var(--br-3xs);  
+  background-color: var(--white);  
+  width: 15.063rem;  
+  height: 5.375rem;  
+}  
+  
+.image-29-icon,  
+.rectangle-container {  
+  position: absolute;  
+  top: 0;  
+  height: 10.125rem;  
+}  
+  
+.image-29-icon {  
+  left: 2.5rem;  
+  width: 10.125rem;  
+}  
+  
+.rectangle-container {  
+  left: 26.875rem;  
+  width: 15.063rem;  
+}  
+  
+.image-30-icon,  
+.image-31-icon {  
+  top: 4.188rem;  
+  left: 44.875rem;  
+  width: 10.125rem;  
+  height: 2rem;  
+}  
+  
+.image-31-icon {  
+  top: 4.438rem;  
+  left: 61.188rem;  
+  width: 5.875rem;  
+  height: 1.313rem;  
+}  
+  
+.logos {  
+  position: absolute;  
+  top: 222.563rem;  
+  left: 11.625rem;  
+  width: 67.063rem;  
+  height: 10.125rem;  
+}

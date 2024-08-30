@@ -1,0 +1,191 @@
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-7xl);
+  background-color: var(--white);
+  width: 23.125rem;
+  height: 25rem;
+}
+.building-1-icon,
+.options-icon {
+  position: absolute;
+  top: 17.688rem;
+  left: 1.75rem;
+  width: 8.688rem;
+  height: 2.25rem;
+}
+.building-1-icon {
+  top: 21.75rem;
+  left: 1.563rem;
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  
+}
+.by-kartik,
+.june,
+.people-going {
+  position: absolute;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.people-going {
+  top: 21.813rem;
+  left: 3.5rem;
+  letter-spacing: -0.02em;
+}
+.by-kartik,
+.june {
+  top: 15.125rem;
+  left: 1.563rem;
+}
+.by-kartik {
+  left: 8.063rem;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.563rem;
+  border-radius: var(--br-5xl);
+  width: 20.063rem;
+  height: 10.063rem;
+  object-fit: cover;
+}
+.trip-to-greece {
+  position: absolute;
+  top: 12.938rem;
+  left: 1.563rem;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.02em;
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--black);
+}
+.line-div {
+  position: absolute;
+  top: 15.188rem;
+  left: 7.25rem;
+  background-color: var(--text-2);
+  border-right: 1px solid var(--text-2);
+  box-sizing: border-box;
+  width: 0.063rem;
+  height: 1.063rem;
+}
+.group-child5,
+.rectangle-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.125rem;
+  height: 25rem;
+}
+.group-child5 {
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.02),
+    0 64.8px 46.85px rgba(0, 0, 0, 0.02), 0 38.5px 25.48px rgba(0, 0, 0, 0.01),
+    0 20px 13px rgba(0, 0, 0, 0.01), 0 8.1px 6.52px rgba(0, 0, 0, 0.01),
+    0 1.9px 3.15px transparent;
+  border-radius: var(--br-lg);
+  background-color: var(--white);
+  width: 16.438rem;
+  height: 8.063rem;
+}
+.trip-to-rome {
+  position: absolute;
+  top: 2.438rem;
+  left: 5.063rem;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.01em;
+  line-height: 124.5%;
+  font-weight: 500;
+}
+.completed1 {
+  color: var(--black);
+}
+.completed {
+  position: absolute;
+  top: 4.688rem;
+  left: 5rem;
+  letter-spacing: -0.05em;
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--color1);
+}
+.ellipse-div,
+.mask-group-icon {
+  position: absolute;
+  top: 1.125rem;
+  left: 1.25rem;
+  width: 3.125rem;
+  height: 3.125rem;
+}
+.ellipse-div {
+  box-shadow: 1px 9px 6px rgba(105, 104, 104, 0.13);
+  border-radius: 50%;
+  background-color: var(--white);
+  opacity: 0.3;
+}
+.mask-group-icon {
+  object-fit: cover;
+}
+.ongoing {
+  position: absolute;
+  top: 1rem;
+  left: 5.125rem;
+  letter-spacing: -0.04em;
+  line-height: 124.5%;
+  font-weight: 500;
+  color: var(--text-2);
+}
+.group-child6,
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--circle);
+  width: 9.75rem;
+  height: 0.313rem;
+}
+.group-child7 {
+  background-color: var(--color1);
+  width: 4.563rem;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 6.375rem;
+  left: 5.125rem;
+  width: 9.75rem;
+  height: 0.313rem;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 13.688rem;
+  left: 13.875rem;
+  width: 16.438rem;
+  height: 8.063rem;
+  font-size: var(--font-size-sm);
+  color: var(--black);
+}
+.heart-6-1 {
+  position: absolute;
+  top: 21.856rem;
+  left: 20.313rem;
+  width: 1.25rem;
+  height: 1.163rem;
+}
+.image1 {
+  position: absolute;
+  top: 3.688rem;
+  left: 0;
+  width: 30.313rem;
+  height: 25rem;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--text-2);
+  font-family: var(--font-poppins);
+}
