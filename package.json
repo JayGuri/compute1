@@ -26,9 +26,10 @@
   },
   "scripts": {
     "start": "vite",
-     "build": "vite build",
+    "build": "vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview --outDir build"
+    "preview": "vite preview"
+
   },
   "eslintConfig": {
     "root": true
