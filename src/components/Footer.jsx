@@ -3,6 +3,7 @@ import "./Footer.css";
 
 const Footer = ({ className = "" }) => {
   let currentYear = new Date().getFullYear()
+
   return (
     <div className={`footer ${className}`}>
       <img className="decore-icon" alt="" src="/decore@2x.png" />

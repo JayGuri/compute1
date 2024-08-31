@@ -11,22 +11,22 @@ const Values = ({ className = "" }) => {
         </div>
         <b className="choose-destination">Choose Destination</b>
         <div className="lorem-ipsum-dolor-container">
-          <p className="lorem-ipsum-dolor">{`Lorem ipsum dolor sit amet, consectetur `}</p>
-          <p className="lorem-ipsum-dolor">{`adipiscing elit. Urna, tortor tempus. `}</p>
+          <p className="lorem-ipsum-dolor">Lorem ipsum dolor sit amet, consectetur</p>
+          <p className="lorem-ipsum-dolor">adipiscing elit. Urna, tortor tempus.</p>
         </div>
       </div>
       <div className="value1">
         <img className="value-child" alt="" src="/group-11.svg" />
         <div className="lorem-ipsum-dolor-container1">
-          <p className="lorem-ipsum-dolor">{`Lorem ipsum dolor sit amet, consectetur `}</p>
-          <p className="lorem-ipsum-dolor">{`adipiscing elit. Urna, tortor tempus. `}</p>
+          <p className="lorem-ipsum-dolor">Lorem ipsum dolor sit amet, consectetur</p>
+          <p className="lorem-ipsum-dolor">adipiscing elit. Urna, tortor tempus.</p>
         </div>
         <b className="choose-destination">Reach Airport on Selected Date</b>
       </div>
       <div className="value2">
         <div className="lorem-ipsum-dolor-container">
-          <p className="lorem-ipsum-dolor">{`Lorem ipsum dolor sit amet, consectetur `}</p>
-          <p className="lorem-ipsum-dolor">{`adipiscing elit. Urna, tortor tempus. `}</p>
+          <p className="lorem-ipsum-dolor">Lorem ipsum dolor sit amet, consectetur</p>
+          <p className="lorem-ipsum-dolor">adipiscing elit. Urna, tortor tempus.</p>
         </div>
         <b className="choose-destination">Make Payment</b>
         <img className="value-child" alt="" src="/group-12.svg" />
